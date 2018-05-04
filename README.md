@@ -47,7 +47,7 @@ Subject librarians engage deeply in the research, teaching, and learning activit
 
 
 
-<h2><a id="bios"></a>Brief Biographies<\h2>
+<h2><a id="bios"></a>Brief Biographies</h2>
 
 Katherine Hart Weimer
 
