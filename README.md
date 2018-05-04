@@ -13,6 +13,7 @@ Co-sponsored by ACRL/DSS Numeric and Geospatial Data Services Discussion Group
 
 ## Speakers
 [Brief biographies](https://github.com/MAGIRT/ALA2018/tree/gh-pages/bios.md "Brief Biographies") 
+<a href="#bios">Brief Biographies</a>
 
 ### Katherine Hart Weimer 
 
@@ -43,3 +44,6 @@ At the raise of spatial humanities, library plays an important role in supportin
 
 Subject librarians engage deeply in the research, teaching, and learning activities of their departments. With the spatial turn, we are increasingly being called upon to participate in the whole lifespan of spatial humanities, from finding raw materials to creating, sustaining, and preserving spatial humanities research. Although I am not a GIS specialist, I have performed many roles in spatial humanities research—including data provider, methods consultant, instructional designer, and cheerleader. During my talk, I will discuss the spectrum of my involvement, as well as how I gained confidence to engage in spatial humanities research.
 
+<a id="bios"></a>Brief Biographies
+
+blah blah blah
