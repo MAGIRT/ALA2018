@@ -13,7 +13,7 @@ Co-sponsored by ACRL/DSS Numeric and Geospatial Data Services Discussion Group
 
 ## Speakers
 
-[Brief Biographies] (https://github.com/MAGIRT/ALA2018/blob/gh-pages/bios.md "Brief Biographies")
+[Brief biographies](https://github.com/MAGIRT/ALA2018/tree/gh-pages/bios.md "Brief Biographies") 
 
 <a href="#bios">Brief Biographies</a>
 
