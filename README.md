@@ -13,6 +13,8 @@ Co-sponsored by ACRL/DSS Numeric and Geospatial Data Services Discussion Group
 
 ## Speakers
 
+[Brief Biographies] (bios.md "Brief Biographies")
+
 <a href="#bios">Brief Biographies</a>
 
 ### Katherine Hart Weimer 
