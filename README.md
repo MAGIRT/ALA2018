@@ -45,12 +45,12 @@ At the raise of spatial humanities, library plays an important role in supportin
 Subject librarians engage deeply in the research, teaching, and learning activities of their departments. With the spatial turn, we are increasingly being called upon to participate in the whole lifespan of spatial humanities, from finding raw materials to creating, sustaining, and preserving spatial humanities research. Although I am not a GIS specialist, I have performed many roles in spatial humanities research—including data provider, methods consultant, instructional designer, and cheerleader. During my talk, I will discuss the spectrum of my involvement, as well as how I gained confidence to engage in spatial humanities research.
 
 
-<br>
+
 <br>
 <br>
 <br>
 
-<h3><a id="bios"></a>Brief Biographies</h3>
+<h2><a id="bios"></a>Brief Biographies</h2>
 
 Katherine Hart Weimer
 
